@@ -14,7 +14,7 @@ int doorOpen;
 // Matt's Notes!!!  
 // Requires ESP8266 Board Library version: 2.3.0
 // Requires single-word device name.
-// Requires 2.3.0
+// Requires FauxmoESP 2.3.0
 // These things are all outside the control of this code. (:
 
 // -----------------------------------------------------------------------------
